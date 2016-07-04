@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+
+print("Scafander SDK version 1.0\n")
