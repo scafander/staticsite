@@ -17,6 +17,7 @@
 *.zip
 *.deb
 *.rpm
+*.tar.gz
 
 # Logs and databases 
 *.log
